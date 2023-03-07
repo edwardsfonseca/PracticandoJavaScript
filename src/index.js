@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 
-import Ejercicios05 from './ejercicios/Ejercicios.05';
+import Ejercicios06 from './ejercicios/Ejercicios06';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Ejercicios05/>
+    <Ejercicios06/>
   </React.StrictMode>
 );
 
